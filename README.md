@@ -84,4 +84,14 @@ Battery Parameters
 - dep_user_soc constraints the SoC at departure of mobility to take a certain value.
 - dep_step specifies the timestep of departure for mobility.
 - arr_user_soc constraints the SoC at arrival of mobility to take a certain value.
-- arr_step specifies the timestep of arrival for mobility.  
+- arr_step specifies the timestep of arrival for mobility.
+
+Afterwards, activation schemes, power flows and more can be viewed to study the causes of system behavior. Valuable insights on general flexibility marketing strategies, effects of param-eter changes and foremost profit potentials can be derived.
+
+![image](https://github.com/user-attachments/assets/442b4ca4-5af0-4edd-8e0b-1046d6cddaa8)
+
+![image](https://github.com/user-attachments/assets/2e92a5ce-bf85-480a-9d5e-435405fb2472)
+
+![image](https://github.com/user-attachments/assets/d0cb7fe8-86a6-4503-b24d-9a92cf5680b0)
+
+
