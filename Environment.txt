@@ -1,0 +1,26 @@
+# Name                    Version                   Build  Channel
+ca-certificates           2025.1.31            h4c7d964_1    conda-forge
+intel-openmp              2024.2.1          h57928b3_1083    conda-forge
+ipopt                     3.14.12              ha9547d1_0    conda-forge
+libblas                   3.9.0           31_h641d27c_mkl    conda-forge
+libffi                    3.4.4                hd77b12b_1
+libflang                  5.0.0           h6538335_20180525    conda-forge
+liblapack                 3.9.0           31_h1aa476e_mkl    conda-forge
+llvm-meta                 5.0.0                         0    conda-forge
+metis                     5.1.0             h0e60522_1006    conda-forge
+mkl                       2024.2.2            h66d3029_15    conda-forge
+mumps-seq                 5.2.1               hb3f9cae_11    conda-forge
+openmp                    5.0.0                    vc14_1    conda-forge
+openssl                   3.1.0                hcfcfb64_3    conda-forge
+pip                       24.2             py38haa95532_0
+ply                       3.11               pyhd8ed1ab_2    conda-forge
+pyomo                     6.5.0            py38hd3f51b4_0    conda-forge
+python                    3.8.20               h8205438_0
+python_abi                3.8                      2_cp38    conda-forge
+setuptools                75.1.0           py38haa95532_0
+sqlite                    3.45.3               h2bbff1b_0
+tbb                       2021.7.0             h91493d7_0    conda-forge
+ucrt                      10.0.22621.0         h57928b3_1    conda-forge
+vc                        14.42                haa95532_5
+vs2015_runtime            14.42.34433          hbfb602d_5
+wheel                     0.44.0           py38haa95532_0
